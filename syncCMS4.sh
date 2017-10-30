@@ -2,6 +2,8 @@ basedir="/hadoop/cms/store/user/namin/ProjectMetis/"
 dir="*CMS4_V00-00-06*/"
 backupDir="/home/users/snt/"
 
+logFile="/home/users/sjmay/Librarian/backupSummary.txt"
+
 # Find size of CMS4 currently on hadoop (in TB)
 du -ch $basedir$dir > usageHadoop.txt --block-size=1T
 grep "total" usageHadoop.txt > nTBusedHadoop.txt
@@ -21,17 +23,17 @@ df /home/users/snt/ --block-size=1T | tail -n +3 |  awk '{ print $3 }' > nTBFree
 nTBFreeNFS=$(<nTBFreeNFS.txt)
 
 # Calculate how much free space there will be if we back up again
-echo "Date: "$(date)", attempting to backup CMS4" >> backupSummary.txt
-echo "Space remaining after rsync:" >> backupSummary.txt
+echo "Date: "$(date)", attempting to backup CMS4" >> $logFile
+echo "Space remaining after rsync:" >> $logFile
 nTBtoTransfer=$((nTBHadoop-nTBNFS))
 nTBRemaining=$((nTBFreeNFS-nTBtoTransfer))
-echo $nTBRemaining >> backupSummary.txt
+echo $nTBRemaining >> $logFile
 
 breathingRoom=10
 if (($nTBRemaining > $breathingRoom))
 then
-  echo "Enough space to backup. Running rsync" >> backupSummary.txt
-  rsync -a $basedir $backupDir --include $dir'***' --exclude '*' >> backupSummary.txt
+  echo "Enough space to backup. Running rsync" >> $logFile
+  rsync -a $basedir $backupDir --include $dir'***' --exclude '*' >> $logFile
 else
-  echo "Not enough breathing room ("$nTBRemaining" TB), did not backup" >> backupSummary.txt
+  echo "Not enough breathing room ("$nTBRemaining" TB), did not backup" >> $logFile
 fi 
