@@ -33,7 +33,7 @@ breathingRoom=10
 if (($nTBRemaining > $breathingRoom))
 then
   echo "Enough space to backup. Running rsync" >> $logFile
-  rsync -a $basedir $backupDir --include $dir'***' --exclude '*' >> $logFile
+  rsync -a $basedir $backupDir --include $dir'***' --exclude '*' &>> $logFile
 else
   echo "Not enough breathing room ("$nTBRemaining" TB), did not backup" >> $logFile
 fi 
