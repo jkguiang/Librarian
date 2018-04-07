@@ -1,0 +1,2694 @@
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DY1JetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:18:55 PDT 2018
+....................................................................................................
+..............................................................Status: HEALTHY
+ Total size:	519607167373 B
+ Total dirs:	1
+ Total files:	162
+ Total blocks (validated):	7797 (avg. block size 66641935 B)
+ Minimally replicated blocks:	7797 (100.0 %)
+ Over-replicated blocks:	620 (7.9517765 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0804155
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:18:55 PDT 2018 in 50 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DY1JetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DY2JetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:18:56 PDT 2018
+....................................................................................................
+..............Status: HEALTHY
+ Total size:	391640909934 B
+ Total dirs:	1
+ Total files:	114
+ Total blocks (validated):	5897 (avg. block size 66413584 B)
+ Minimally replicated blocks:	5897 (100.0 %)
+ Over-replicated blocks:	467 (7.919281 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0808885
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:18:56 PDT 2018 in 35 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DY2JetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DY3JetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:18:57 PDT 2018
+..............Status: HEALTHY
+ Total size:	49077960491 B
+ Total dirs:	1
+ Total files:	14
+ Total blocks (validated):	738 (avg. block size 66501301 B)
+ Minimally replicated blocks:	738 (100.0 %)
+ Over-replicated blocks:	56 (7.588076 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0772357
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:18:57 PDT 2018 in 6 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DY3JetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DY4JetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:18:58 PDT 2018
+...Status: HEALTHY
+ Total size:	7330996980 B
+ Total dirs:	1
+ Total files:	3
+ Total blocks (validated):	111 (avg. block size 66045017 B)
+ Minimally replicated blocks:	111 (100.0 %)
+ Over-replicated blocks:	12 (10.810811 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.108108
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:18:58 PDT 2018 in 1 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DY4JetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DYJetsToLL_M-10to50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:18:59 PDT 2018
+............................................................................................Status: HEALTHY
+ Total size:	221375281196 B
+ Total dirs:	1
+ Total files:	92
+ Total blocks (validated):	3347 (avg. block size 66141404 B)
+ Minimally replicated blocks:	3347 (100.0 %)
+ Over-replicated blocks:	253 (7.559008 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0773828
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:18:59 PDT 2018 in 23 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DYJetsToLL_M-10to50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10_ext1-v1_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:19:00 PDT 2018
+....................................................................................................
+......................Status: HEALTHY
+ Total size:	409349077717 B
+ Total dirs:	1
+ Total files:	122
+ Total blocks (validated):	6099 (avg. block size 67117409 B)
+ Minimally replicated blocks:	6099 (100.0 %)
+ Over-replicated blocks:	470 (7.7061815 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0788653
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:00 PDT 2018 in 36 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10_ext1-v1_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10_ext1-v2_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:19:01 PDT 2018
+....................................................................................................
+...........................Status: HEALTHY
+ Total size:	381077464215 B
+ Total dirs:	1
+ Total files:	127
+ Total blocks (validated):	5652 (avg. block size 67423472 B)
+ Minimally replicated blocks:	5652 (100.0 %)
+ Over-replicated blocks:	429 (7.5902333 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0771408
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:01 PDT 2018 in 34 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10_ext1-v2_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v7-v1_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:19:02 PDT 2018
+..Status: HEALTHY
+ Total size:	2333518067 B
+ Total dirs:	1
+ Total files:	2
+ Total blocks (validated):	36 (avg. block size 64819946 B)
+ Minimally replicated blocks:	36 (100.0 %)
+ Over-replicated blocks:	4 (11.111111 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.1388888
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:02 PDT 2018 in 1 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v7-v1_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DoubleEG_Run2017B-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:03 PDT 2018
+....................................................................................................
+.........................Status: HEALTHY
+ Total size:	275279073215 B
+ Total dirs:	1
+ Total files:	125
+ Total blocks (validated):	4128 (avg. block size 66685821 B)
+ Minimally replicated blocks:	4128 (100.0 %)
+ Over-replicated blocks:	339 (8.21221 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0852714
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:03 PDT 2018 in 28 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DoubleEG_Run2017B-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DoubleEG_Run2017B-PromptReco-v2_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:04 PDT 2018
+.........................Status: HEALTHY
+ Total size:	57647951154 B
+ Total dirs:	1
+ Total files:	25
+ Total blocks (validated):	874 (avg. block size 65958754 B)
+ Minimally replicated blocks:	874 (100.0 %)
+ Over-replicated blocks:	59 (6.750572 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.070938
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:04 PDT 2018 in 6 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DoubleEG_Run2017B-PromptReco-v2_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DoubleEG_Run2017C-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:05 PDT 2018
+.......................Status: HEALTHY
+ Total size:	52395201100 B
+ Total dirs:	1
+ Total files:	23
+ Total blocks (validated):	780 (avg. block size 67173334 B)
+ Minimally replicated blocks:	780 (100.0 %)
+ Over-replicated blocks:	48 (6.1538463 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0641026
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:05 PDT 2018 in 8 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DoubleEG_Run2017C-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DoubleEG_Run2017C-PromptReco-v2_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:06 PDT 2018
+.....................................................................Status: HEALTHY
+ Total size:	163581105875 B
+ Total dirs:	1
+ Total files:	69
+ Total blocks (validated):	2473 (avg. block size 66146828 B)
+ Minimally replicated blocks:	2473 (100.0 %)
+ Over-replicated blocks:	182 (7.3594823 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0744035
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:06 PDT 2018 in 17 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DoubleEG_Run2017C-PromptReco-v2_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DoubleEG_Run2017C-PromptReco-v3_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:07 PDT 2018
+.........................................................................Status: HEALTHY
+ Total size:	190060326383 B
+ Total dirs:	1
+ Total files:	73
+ Total blocks (validated):	2831 (avg. block size 67135403 B)
+ Minimally replicated blocks:	2831 (100.0 %)
+ Over-replicated blocks:	221 (7.806429 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0794773
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:07 PDT 2018 in 18 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DoubleEG_Run2017C-PromptReco-v3_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DoubleEG_Run2017D-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:08 PDT 2018
+...................................................................Status: HEALTHY
+ Total size:	152872494866 B
+ Total dirs:	1
+ Total files:	67
+ Total blocks (validated):	2256 (avg. block size 67762630 B)
+ Minimally replicated blocks:	2256 (100.0 %)
+ Over-replicated blocks:	138 (6.117021 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0625
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:08 PDT 2018 in 16 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DoubleEG_Run2017D-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DoubleEG_Run2017E-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:09 PDT 2018
+....................................................................................................
+.......................................Status: HEALTHY
+ Total size:	397956723687 B
+ Total dirs:	1
+ Total files:	139
+ Total blocks (validated):	5956 (avg. block size 66816105 B)
+ Minimally replicated blocks:	5956 (100.0 %)
+ Over-replicated blocks:	447 (7.505037 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0760577
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:09 PDT 2018 in 37 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DoubleEG_Run2017E-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DoubleEG_Run2017F-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:10 PDT 2018
+....................................................................................................
+........................................................................................Status: HEALTHY
+ Total size:	540077107300 B
+ Total dirs:	1
+ Total files:	188
+ Total blocks (validated):	8043 (avg. block size 67148714 B)
+ Minimally replicated blocks:	8043 (100.0 %)
+ Over-replicated blocks:	621 (7.7209997 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0785778
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:10 PDT 2018 in 46 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DoubleEG_Run2017F-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DoubleMuon_Run2017B-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:11 PDT 2018
+................................Status: HEALTHY
+ Total size:	69362127266 B
+ Total dirs:	1
+ Total files:	32
+ Total blocks (validated):	1052 (avg. block size 65933581 B)
+ Minimally replicated blocks:	1052 (100.0 %)
+ Over-replicated blocks:	80 (7.6045628 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0760455
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:11 PDT 2018 in 7 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DoubleMuon_Run2017B-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DoubleMuon_Run2017B-PromptReco-v2_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:12 PDT 2018
+.......Status: HEALTHY
+ Total size:	13189851207 B
+ Total dirs:	1
+ Total files:	7
+ Total blocks (validated):	201 (avg. block size 65621150 B)
+ Minimally replicated blocks:	201 (100.0 %)
+ Over-replicated blocks:	13 (6.467662 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0646765
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:12 PDT 2018 in 3 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DoubleMuon_Run2017B-PromptReco-v2_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DoubleMuon_Run2017C-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:13 PDT 2018
+..................Status: HEALTHY
+ Total size:	42133149770 B
+ Total dirs:	1
+ Total files:	18
+ Total blocks (validated):	636 (avg. block size 66247090 B)
+ Minimally replicated blocks:	636 (100.0 %)
+ Over-replicated blocks:	45 (7.075472 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0723271
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:13 PDT 2018 in 7 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DoubleMuon_Run2017C-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DoubleMuon_Run2017C-PromptReco-v2_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:14 PDT 2018
+......................................................Status: HEALTHY
+ Total size:	125904976230 B
+ Total dirs:	1
+ Total files:	54
+ Total blocks (validated):	1882 (avg. block size 66899562 B)
+ Minimally replicated blocks:	1882 (100.0 %)
+ Over-replicated blocks:	156 (8.289054 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0844846
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:14 PDT 2018 in 15 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DoubleMuon_Run2017C-PromptReco-v2_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DoubleMuon_Run2017C-PromptReco-v3_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:15 PDT 2018
+.........................................................Status: HEALTHY
+ Total size:	132160817277 B
+ Total dirs:	1
+ Total files:	57
+ Total blocks (validated):	1980 (avg. block size 66747887 B)
+ Minimally replicated blocks:	1980 (100.0 %)
+ Over-replicated blocks:	128 (6.4646463 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0671718
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:15 PDT 2018 in 15 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DoubleMuon_Run2017C-PromptReco-v3_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DoubleMuon_Run2017D-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:16 PDT 2018
+...........................................................Status: HEALTHY
+ Total size:	140870378829 B
+ Total dirs:	1
+ Total files:	59
+ Total blocks (validated):	2132 (avg. block size 66074286 B)
+ Minimally replicated blocks:	2132 (100.0 %)
+ Over-replicated blocks:	156 (7.3170733 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0736399
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:16 PDT 2018 in 15 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DoubleMuon_Run2017D-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DoubleMuon_Run2017E-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:17 PDT 2018
+....................................................................................................
+.............................Status: HEALTHY
+ Total size:	476307027437 B
+ Total dirs:	1
+ Total files:	129
+ Total blocks (validated):	7023 (avg. block size 67821020 B)
+ Minimally replicated blocks:	7023 (100.0 %)
+ Over-replicated blocks:	544 (7.7459774 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.079026
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:17 PDT 2018 in 38 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DoubleMuon_Run2017E-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DoubleMuon_Run2017F-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:18 PDT 2018
+....................................................................................................
+.................................................................................................Status: HEALTHY
+ Total size:	579136274908 B
+ Total dirs:	1
+ Total files:	197
+ Total blocks (validated):	8575 (avg. block size 67537758 B)
+ Minimally replicated blocks:	8575 (100.0 %)
+ Over-replicated blocks:	669 (7.801749 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0787172
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:18 PDT 2018 in 52 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DoubleMuon_Run2017F-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/DoubleMuon_Run2017H-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:19 PDT 2018
+............................................Status: HEALTHY
+ Total size:	66116578864 B
+ Total dirs:	1
+ Total files:	44
+ Total blocks (validated):	983 (avg. block size 67259998 B)
+ Minimally replicated blocks:	983 (100.0 %)
+ Over-replicated blocks:	82 (8.341811 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0834181
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:19 PDT 2018 in 10 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/DoubleMuon_Run2017H-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/GJet_DoubleEMEnriched_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v3_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:19:20 PDT 2018
+....................................................................................................
+..........Status: HEALTHY
+ Total size:	254809688867 B
+ Total dirs:	1
+ Total files:	110
+ Total blocks (validated):	3801 (avg. block size 67037539 B)
+ Minimally replicated blocks:	3801 (100.0 %)
+ Over-replicated blocks:	298 (7.840042 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0794528
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:20 PDT 2018 in 24 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/GJet_DoubleEMEnriched_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v3_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/GJets_HT-400To600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:19:21 PDT 2018
+..Status: HEALTHY
+ Total size:	2362291181 B
+ Total dirs:	1
+ Total files:	2
+ Total blocks (validated):	37 (avg. block size 63845707 B)
+ Minimally replicated blocks:	37 (100.0 %)
+ Over-replicated blocks:	8 (21.621622 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.2162163
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:21 PDT 2018 in 1 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/GJets_HT-400To600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/HTMHT_Run2017B-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:27 PDT 2018
+........Status: HEALTHY
+ Total size:	20297375863 B
+ Total dirs:	1
+ Total files:	8
+ Total blocks (validated):	308 (avg. block size 65900570 B)
+ Minimally replicated blocks:	308 (100.0 %)
+ Over-replicated blocks:	20 (6.4935064 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.064935
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:27 PDT 2018 in 4 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/HTMHT_Run2017B-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/HTMHT_Run2017B-PromptReco-v2_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:28 PDT 2018
+..Status: HEALTHY
+ Total size:	3881066148 B
+ Total dirs:	1
+ Total files:	2
+ Total blocks (validated):	59 (avg. block size 65780782 B)
+ Minimally replicated blocks:	59 (100.0 %)
+ Over-replicated blocks:	3 (5.084746 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0508475
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:28 PDT 2018 in 1 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/HTMHT_Run2017B-PromptReco-v2_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/HTMHT_Run2017C-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:29 PDT 2018
+....Status: HEALTHY
+ Total size:	10614120069 B
+ Total dirs:	1
+ Total files:	4
+ Total blocks (validated):	161 (avg. block size 65926211 B)
+ Minimally replicated blocks:	161 (100.0 %)
+ Over-replicated blocks:	10 (6.21118 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0621119
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:29 PDT 2018 in 2 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/HTMHT_Run2017C-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/HTMHT_Run2017C-PromptReco-v2_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:30 PDT 2018
+...........Status: HEALTHY
+ Total size:	30294237524 B
+ Total dirs:	1
+ Total files:	11
+ Total blocks (validated):	458 (avg. block size 66144623 B)
+ Minimally replicated blocks:	458 (100.0 %)
+ Over-replicated blocks:	36 (7.860262 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.080786
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:30 PDT 2018 in 4 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/HTMHT_Run2017C-PromptReco-v2_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/HTMHT_Run2017C-PromptReco-v3_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:31 PDT 2018
+............Status: HEALTHY
+ Total size:	30597273557 B
+ Total dirs:	1
+ Total files:	12
+ Total blocks (validated):	462 (avg. block size 66227864 B)
+ Minimally replicated blocks:	462 (100.0 %)
+ Over-replicated blocks:	28 (6.060606 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.060606
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:31 PDT 2018 in 4 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/HTMHT_Run2017C-PromptReco-v3_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/HTMHT_Run2017D-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:32 PDT 2018
+................Status: HEALTHY
+ Total size:	29696544433 B
+ Total dirs:	1
+ Total files:	16
+ Total blocks (validated):	452 (avg. block size 65700319 B)
+ Minimally replicated blocks:	452 (100.0 %)
+ Over-replicated blocks:	33 (7.3008847 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0730088
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:32 PDT 2018 in 4 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/HTMHT_Run2017D-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/HTMHT_Run2017E-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:33 PDT 2018
+............................Status: HEALTHY
+ Total size:	83446394414 B
+ Total dirs:	1
+ Total files:	28
+ Total blocks (validated):	1208 (avg. block size 69078141 B)
+ Minimally replicated blocks:	1208 (100.0 %)
+ Over-replicated blocks:	93 (7.6986756 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0786424
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:33 PDT 2018 in 11 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/HTMHT_Run2017E-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/HTMHT_Run2017F-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:34 PDT 2018
+................................................Status: HEALTHY
+ Total size:	163507351319 B
+ Total dirs:	1
+ Total files:	48
+ Total blocks (validated):	2291 (avg. block size 71369424 B)
+ Minimally replicated blocks:	2291 (100.0 %)
+ Over-replicated blocks:	152 (6.6346574 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.066783
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:34 PDT 2018 in 16 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/HTMHT_Run2017F-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/JetHT_Run2017B-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:35 PDT 2018
+....................................................................................................
+..................................................Status: HEALTHY
+ Total size:	372420477665 B
+ Total dirs:	1
+ Total files:	150
+ Total blocks (validated):	5553 (avg. block size 67066536 B)
+ Minimally replicated blocks:	5553 (100.0 %)
+ Over-replicated blocks:	449 (8.085719 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.082658
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:35 PDT 2018 in 36 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/JetHT_Run2017B-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/JetHT_Run2017B-PromptReco-v2_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:36 PDT 2018
+...............Status: HEALTHY
+ Total size:	40632385041 B
+ Total dirs:	1
+ Total files:	15
+ Total blocks (validated):	590 (avg. block size 68868449 B)
+ Minimally replicated blocks:	590 (100.0 %)
+ Over-replicated blocks:	46 (7.7966104 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.081356
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:36 PDT 2018 in 5 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/JetHT_Run2017B-PromptReco-v2_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/JetHT_Run2017C-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:37 PDT 2018
+..............................Status: HEALTHY
+ Total size:	84553609925 B
+ Total dirs:	1
+ Total files:	30
+ Total blocks (validated):	1252 (avg. block size 67534832 B)
+ Minimally replicated blocks:	1252 (100.0 %)
+ Over-replicated blocks:	99 (7.907348 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0806708
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:37 PDT 2018 in 11 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/JetHT_Run2017C-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/JetHT_Run2017C-PromptReco-v2_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:38 PDT 2018
+..............................................................................Status: HEALTHY
+ Total size:	217450527497 B
+ Total dirs:	1
+ Total files:	78
+ Total blocks (validated):	3267 (avg. block size 66559696 B)
+ Minimally replicated blocks:	3267 (100.0 %)
+ Over-replicated blocks:	261 (7.988981 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0814202
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:38 PDT 2018 in 20 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/JetHT_Run2017C-PromptReco-v2_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/JetHT_Run2017C-PromptReco-v3_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:39 PDT 2018
+....................................................................................................
+...................................Status: HEALTHY
+ Total size:	354295292807 B
+ Total dirs:	1
+ Total files:	135
+ Total blocks (validated):	5300 (avg. block size 66848168 B)
+ Minimally replicated blocks:	5300 (100.0 %)
+ Over-replicated blocks:	407 (7.6792455 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.078302
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:39 PDT 2018 in 38 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/JetHT_Run2017C-PromptReco-v3_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/JetHT_Run2017D-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:40 PDT 2018
+....................................................................................................
+.....................Status: HEALTHY
+ Total size:	321393778042 B
+ Total dirs:	1
+ Total files:	121
+ Total blocks (validated):	4809 (avg. block size 66831727 B)
+ Minimally replicated blocks:	4809 (100.0 %)
+ Over-replicated blocks:	348 (7.2364316 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0738199
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:41 PDT 2018 in 28 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/JetHT_Run2017D-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/JetHT_Run2017E-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:42 PDT 2018
+....................................................................................................
+....................................................................................................
+........................Status: HEALTHY
+ Total size:	684865397859 B
+ Total dirs:	1
+ Total files:	224
+ Total blocks (validated):	10224 (avg. block size 66986052 B)
+ Minimally replicated blocks:	10224 (100.0 %)
+ Over-replicated blocks:	736 (7.198748 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0726721
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:42 PDT 2018 in 59 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/JetHT_Run2017E-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/JetHT_Run2017F-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:43 PDT 2018
+....................................................................................................
+....................................................................................................
+.........................................................................................Status: HEALTHY
+ Total size:	961272658227 B
+ Total dirs:	1
+ Total files:	289
+ Total blocks (validated):	14245 (avg. block size 67481408 B)
+ Minimally replicated blocks:	14245 (100.0 %)
+ Over-replicated blocks:	1049 (7.3639874 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0746226
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:43 PDT 2018 in 80 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/JetHT_Run2017F-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/MET_Run2017B-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:44 PDT 2018
+....................................................................................................
+..................Status: HEALTHY
+ Total size:	205218599932 B
+ Total dirs:	1
+ Total files:	118
+ Total blocks (validated):	3100 (avg. block size 66199548 B)
+ Minimally replicated blocks:	3100 (100.0 %)
+ Over-replicated blocks:	221 (7.129032 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0725806
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:44 PDT 2018 in 22 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/MET_Run2017B-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/MET_Run2017B-PromptReco-v2_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:45 PDT 2018
+....................Status: HEALTHY
+ Total size:	35866351091 B
+ Total dirs:	1
+ Total files:	20
+ Total blocks (validated):	544 (avg. block size 65930792 B)
+ Minimally replicated blocks:	544 (100.0 %)
+ Over-replicated blocks:	53 (9.742647 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.1029413
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:45 PDT 2018 in 7 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/MET_Run2017B-PromptReco-v2_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/MET_Run2017C-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:46 PDT 2018
+..........................................Status: HEALTHY
+ Total size:	75912821871 B
+ Total dirs:	1
+ Total files:	42
+ Total blocks (validated):	1150 (avg. block size 66011149 B)
+ Minimally replicated blocks:	1150 (100.0 %)
+ Over-replicated blocks:	87 (7.5652175 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.078261
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:46 PDT 2018 in 10 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/MET_Run2017C-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/MET_Run2017C-PromptReco-v2_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:47 PDT 2018
+....................................................................................................
+...............................Status: HEALTHY
+ Total size:	257373953079 B
+ Total dirs:	1
+ Total files:	131
+ Total blocks (validated):	3877 (avg. block size 66384821 B)
+ Minimally replicated blocks:	3877 (100.0 %)
+ Over-replicated blocks:	335 (8.640701 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0874388
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:47 PDT 2018 in 26 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/MET_Run2017C-PromptReco-v2_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/MET_Run2017C-PromptReco-v3_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:48 PDT 2018
+....................................................................................................
+............................Status: HEALTHY
+ Total size:	238079371931 B
+ Total dirs:	1
+ Total files:	128
+ Total blocks (validated):	3567 (avg. block size 66744987 B)
+ Minimally replicated blocks:	3567 (100.0 %)
+ Over-replicated blocks:	272 (7.6254554 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0779366
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:48 PDT 2018 in 25 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/MET_Run2017C-PromptReco-v3_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/MET_Run2017D-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:49 PDT 2018
+.......................................................Status: HEALTHY
+ Total size:	116306197385 B
+ Total dirs:	1
+ Total files:	55
+ Total blocks (validated):	1760 (avg. block size 66083066 B)
+ Minimally replicated blocks:	1760 (100.0 %)
+ Over-replicated blocks:	139 (7.8977275 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0801136
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:49 PDT 2018 in 12 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/MET_Run2017D-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/MET_Run2017E-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:50 PDT 2018
+....................................................................................................
+..............................................................................Status: HEALTHY
+ Total size:	511390785846 B
+ Total dirs:	1
+ Total files:	178
+ Total blocks (validated):	7508 (avg. block size 68112784 B)
+ Minimally replicated blocks:	7508 (100.0 %)
+ Over-replicated blocks:	552 (7.3521576 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0747204
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:50 PDT 2018 in 43 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/MET_Run2017E-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/MET_Run2017F-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:51 PDT 2018
+....................................................................................................
+....................................................................................................
+....................................................................................................
+....................................................................................................
+..........................................Status: HEALTHY
+ Total size:	1365064359916 B
+ Total dirs:	1
+ Total files:	442
+ Total blocks (validated):	20277 (avg. block size 67320824 B)
+ Minimally replicated blocks:	20277 (100.0 %)
+ Over-replicated blocks:	1544 (7.6145387 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.077329
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:51 PDT 2018 in 113 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/MET_Run2017F-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/MuonEG_Run2017B-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:53 PDT 2018
+..........Status: HEALTHY
+ Total size:	23325424975 B
+ Total dirs:	1
+ Total files:	10
+ Total blocks (validated):	354 (avg. block size 65891031 B)
+ Minimally replicated blocks:	354 (100.0 %)
+ Over-replicated blocks:	34 (9.60452 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.09887
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:53 PDT 2018 in 4 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/MuonEG_Run2017B-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/MuonEG_Run2017B-PromptReco-v2_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:54 PDT 2018
+...Status: HEALTHY
+ Total size:	5613739769 B
+ Total dirs:	1
+ Total files:	3
+ Total blocks (validated):	86 (avg. block size 65276043 B)
+ Minimally replicated blocks:	86 (100.0 %)
+ Over-replicated blocks:	5 (5.8139534 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0581396
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:54 PDT 2018 in 2 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/MuonEG_Run2017B-PromptReco-v2_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/MuonEG_Run2017C-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:55 PDT 2018
+.......Status: HEALTHY
+ Total size:	14122646435 B
+ Total dirs:	1
+ Total files:	7
+ Total blocks (validated):	214 (avg. block size 65993674 B)
+ Minimally replicated blocks:	214 (100.0 %)
+ Over-replicated blocks:	18 (8.411215 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0841122
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:55 PDT 2018 in 3 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/MuonEG_Run2017C-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/MuonEG_Run2017C-PromptReco-v2_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:56 PDT 2018
+.................Status: HEALTHY
+ Total size:	43675829511 B
+ Total dirs:	1
+ Total files:	17
+ Total blocks (validated):	659 (avg. block size 66275917 B)
+ Minimally replicated blocks:	659 (100.0 %)
+ Over-replicated blocks:	42 (6.373293 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0637329
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:56 PDT 2018 in 7 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/MuonEG_Run2017C-PromptReco-v2_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/MuonEG_Run2017C-PromptReco-v3_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:19:57 PDT 2018
+....................Status: HEALTHY
+ Total size:	47182514593 B
+ Total dirs:	1
+ Total files:	20
+ Total blocks (validated):	691 (avg. block size 68281497 B)
+ Minimally replicated blocks:	691 (100.0 %)
+ Over-replicated blocks:	45 (6.512301 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0665703
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:19:57 PDT 2018 in 8 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/MuonEG_Run2017C-PromptReco-v3_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/MuonEG_Run2017D-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:20:03 PDT 2018
+.........................Status: HEALTHY
+ Total size:	61320019765 B
+ Total dirs:	1
+ Total files:	25
+ Total blocks (validated):	927 (avg. block size 66148888 B)
+ Minimally replicated blocks:	927 (100.0 %)
+ Over-replicated blocks:	66 (7.119741 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0765913
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:03 PDT 2018 in 38 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/MuonEG_Run2017D-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/MuonEG_Run2017E-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:20:04 PDT 2018
+.................................................Status: HEALTHY
+ Total size:	137782894279 B
+ Total dirs:	1
+ Total files:	49
+ Total blocks (validated):	2082 (avg. block size 66178143 B)
+ Minimally replicated blocks:	2082 (100.0 %)
+ Over-replicated blocks:	152 (7.3006725 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0739675
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:04 PDT 2018 in 14 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/MuonEG_Run2017E-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/MuonEG_Run2017F-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:20:06 PDT 2018
+....................................................................Status: HEALTHY
+ Total size:	211782880071 B
+ Total dirs:	1
+ Total files:	68
+ Total blocks (validated):	3158 (avg. block size 67062343 B)
+ Minimally replicated blocks:	3158 (100.0 %)
+ Over-replicated blocks:	237 (7.50475 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.075364
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:06 PDT 2018 in 18 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/MuonEG_Run2017F-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt-120to170_EMEnriched_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v3_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:07 PDT 2018
+.............................Status: HEALTHY
+ Total size:	89497356992 B
+ Total dirs:	1
+ Total files:	29
+ Total blocks (validated):	1349 (avg. block size 66343481 B)
+ Minimally replicated blocks:	1349 (100.0 %)
+ Over-replicated blocks:	108 (8.00593 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0808005
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:07 PDT 2018 in 11 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt-120to170_EMEnriched_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v3_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt-120to170_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:08 PDT 2018
+......................Status: HEALTHY
+ Total size:	85802524388 B
+ Total dirs:	1
+ Total files:	22
+ Total blocks (validated):	1289 (avg. block size 66565185 B)
+ Minimally replicated blocks:	1289 (100.0 %)
+ Over-replicated blocks:	104 (8.06827 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0822344
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:08 PDT 2018 in 12 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt-120to170_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt-15to20_EMEnriched_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10_ext1-v1_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:09 PDT 2018
+........Status: HEALTHY
+ Total size:	14843232802 B
+ Total dirs:	1
+ Total files:	8
+ Total blocks (validated):	225 (avg. block size 65969923 B)
+ Minimally replicated blocks:	225 (100.0 %)
+ Over-replicated blocks:	17 (7.5555553 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0755556
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:09 PDT 2018 in 3 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt-15to20_EMEnriched_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10_ext1-v1_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt-15to20_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:10 PDT 2018
+..............Status: HEALTHY
+ Total size:	35391052149 B
+ Total dirs:	1
+ Total files:	14
+ Total blocks (validated):	534 (avg. block size 66275378 B)
+ Minimally replicated blocks:	534 (100.0 %)
+ Over-replicated blocks:	49 (9.17603 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0917604
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:10 PDT 2018 in 6 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt-15to20_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt-170to300_EMEnriched_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:11 PDT 2018
+..........Status: HEALTHY
+ Total size:	32005729825 B
+ Total dirs:	1
+ Total files:	10
+ Total blocks (validated):	481 (avg. block size 66539978 B)
+ Minimally replicated blocks:	481 (100.0 %)
+ Over-replicated blocks:	32 (6.6528068 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.066528
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:11 PDT 2018 in 5 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt-170to300_EMEnriched_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt-170to300_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:12 PDT 2018
+....................Status: HEALTHY
+ Total size:	85308645422 B
+ Total dirs:	1
+ Total files:	20
+ Total blocks (validated):	1249 (avg. block size 68301557 B)
+ Minimally replicated blocks:	1249 (100.0 %)
+ Over-replicated blocks:	79 (6.32506 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0640512
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:12 PDT 2018 in 12 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt-170to300_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt-20to30_EMEnriched_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v3_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:13 PDT 2018
+.............................Status: HEALTHY
+ Total size:	64937967778 B
+ Total dirs:	1
+ Total files:	29
+ Total blocks (validated):	965 (avg. block size 67293230 B)
+ Minimally replicated blocks:	965 (100.0 %)
+ Over-replicated blocks:	66 (6.8393784 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.06943
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:13 PDT 2018 in 9 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt-20to30_EMEnriched_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v3_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt-20to30_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:14 PDT 2018
+..............................................................Status: HEALTHY
+ Total size:	174678507404 B
+ Total dirs:	1
+ Total files:	62
+ Total blocks (validated):	2589 (avg. block size 67469489 B)
+ Minimally replicated blocks:	2589 (100.0 %)
+ Over-replicated blocks:	194 (7.493241 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0753186
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:14 PDT 2018 in 19 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt-20to30_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt-20toInf_MuEnrichedPt15_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-FlatPU0to70_92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:15 PDT 2018
+....................Status: HEALTHY
+ Total size:	70033724296 B
+ Total dirs:	1
+ Total files:	20
+ Total blocks (validated):	1025 (avg. block size 68325584 B)
+ Minimally replicated blocks:	1025 (100.0 %)
+ Over-replicated blocks:	73 (7.121951 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.072195
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:15 PDT 2018 in 8 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt-20toInf_MuEnrichedPt15_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-FlatPU0to70_92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt-300to470_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:16 PDT 2018
+.............................................Status: HEALTHY
+ Total size:	224368898110 B
+ Total dirs:	1
+ Total files:	45
+ Total blocks (validated):	3363 (avg. block size 66716889 B)
+ Minimally replicated blocks:	3363 (100.0 %)
+ Over-replicated blocks:	258 (7.6717215 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0776093
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:16 PDT 2018 in 24 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt-300to470_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt-300toInf_EMEnriched_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:17 PDT 2018
+......Status: HEALTHY
+ Total size:	20303118791 B
+ Total dirs:	1
+ Total files:	6
+ Total blocks (validated):	306 (avg. block size 66350061 B)
+ Minimally replicated blocks:	306 (100.0 %)
+ Over-replicated blocks:	19 (6.2091503 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0620916
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:17 PDT 2018 in 3 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt-300toInf_EMEnriched_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt-30to50_EMEnriched_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v3_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:18 PDT 2018
+.....................................Status: HEALTHY
+ Total size:	84041768825 B
+ Total dirs:	1
+ Total files:	37
+ Total blocks (validated):	1253 (avg. block size 67072441 B)
+ Minimally replicated blocks:	1253 (100.0 %)
+ Over-replicated blocks:	87 (6.943336 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0718277
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:18 PDT 2018 in 16 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt-30to50_EMEnriched_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v3_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt-30to50_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:19 PDT 2018
+.....................................................................Status: HEALTHY
+ Total size:	209604663234 B
+ Total dirs:	1
+ Total files:	69
+ Total blocks (validated):	3087 (avg. block size 67899145 B)
+ Minimally replicated blocks:	3087 (100.0 %)
+ Over-replicated blocks:	243 (7.8717203 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0803368
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:19 PDT 2018 in 22 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt-30to50_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt-470to600_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:20 PDT 2018
+............................Status: HEALTHY
+ Total size:	152051146383 B
+ Total dirs:	1
+ Total files:	28
+ Total blocks (validated):	2282 (avg. block size 66630651 B)
+ Minimally replicated blocks:	2282 (100.0 %)
+ Over-replicated blocks:	177 (7.756354 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0793164
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:20 PDT 2018 in 13 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt-470to600_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v3_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:21 PDT 2018
+...........................Status: HEALTHY
+ Total size:	69257415045 B
+ Total dirs:	1
+ Total files:	27
+ Total blocks (validated):	1047 (avg. block size 66148438 B)
+ Minimally replicated blocks:	1047 (100.0 %)
+ Over-replicated blocks:	79 (7.5453677 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.077364
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:21 PDT 2018 in 7 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v3_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt-50to80_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:22 PDT 2018
+......................................................Status: HEALTHY
+ Total size:	180803678672 B
+ Total dirs:	1
+ Total files:	54
+ Total blocks (validated):	2668 (avg. block size 67767495 B)
+ Minimally replicated blocks:	2668 (100.0 %)
+ Over-replicated blocks:	191 (7.158921 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.073838
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:22 PDT 2018 in 18 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt-50to80_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt-600to800_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:23 PDT 2018
+..................Status: HEALTHY
+ Total size:	96935116683 B
+ Total dirs:	1
+ Total files:	18
+ Total blocks (validated):	1451 (avg. block size 66805731 B)
+ Minimally replicated blocks:	1451 (100.0 %)
+ Over-replicated blocks:	102 (7.029635 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0709856
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:23 PDT 2018 in 12 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt-600to800_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt-800to1000_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:24 PDT 2018
+.................Status: HEALTHY
+ Total size:	100266755625 B
+ Total dirs:	1
+ Total files:	17
+ Total blocks (validated):	1456 (avg. block size 68864529 B)
+ Minimally replicated blocks:	1456 (100.0 %)
+ Over-replicated blocks:	118 (8.104396 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0817308
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:24 PDT 2018 in 10 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt-800to1000_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt-80to120_EMEnriched_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v3_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:25 PDT 2018
+......................Status: HEALTHY
+ Total size:	63566146844 B
+ Total dirs:	1
+ Total files:	22
+ Total blocks (validated):	959 (avg. block size 66283781 B)
+ Minimally replicated blocks:	959 (100.0 %)
+ Over-replicated blocks:	89 (9.2805 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.096976
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:25 PDT 2018 in 12 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt-80to120_EMEnriched_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v3_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:26 PDT 2018
+................................Status: HEALTHY
+ Total size:	115788957381 B
+ Total dirs:	1
+ Total files:	32
+ Total blocks (validated):	1717 (avg. block size 67436783 B)
+ Minimally replicated blocks:	1717 (100.0 %)
+ Over-replicated blocks:	132 (7.6878276 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0797904
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:26 PDT 2018 in 13 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt_1000to1400_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v5_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:27 PDT 2018
+.............Status: HEALTHY
+ Total size:	64177426349 B
+ Total dirs:	1
+ Total files:	13
+ Total blocks (validated):	964 (avg. block size 66574093 B)
+ Minimally replicated blocks:	964 (100.0 %)
+ Over-replicated blocks:	77 (7.9875517 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0798755
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:27 PDT 2018 in 10 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt_1000to1400_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v5_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt_120to170_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v4_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:28 PDT 2018
+...................Status: HEALTHY
+ Total size:	52583291784 B
+ Total dirs:	1
+ Total files:	19
+ Total blocks (validated):	792 (avg. block size 66393045 B)
+ Minimally replicated blocks:	792 (100.0 %)
+ Over-replicated blocks:	66 (8.333333 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.084596
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:28 PDT 2018 in 5 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt_120to170_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v4_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt_1400to1800_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v5_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:29 PDT 2018
+.............Status: HEALTHY
+ Total size:	68650033312 B
+ Total dirs:	1
+ Total files:	13
+ Total blocks (validated):	1030 (avg. block size 66650517 B)
+ Minimally replicated blocks:	1030 (100.0 %)
+ Over-replicated blocks:	92 (8.932039 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.091262
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:29 PDT 2018 in 8 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt_1400to1800_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v5_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt_15to30_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v4_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:30 PDT 2018
+.........................Status: HEALTHY
+ Total size:	48612095766 B
+ Total dirs:	1
+ Total files:	25
+ Total blocks (validated):	723 (avg. block size 67236646 B)
+ Minimally replicated blocks:	723 (100.0 %)
+ Over-replicated blocks:	44 (6.085754 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0622406
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:30 PDT 2018 in 5 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt_15to30_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v4_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt_170to300_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v4_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:31 PDT 2018
+..................Status: HEALTHY
+ Total size:	59372201436 B
+ Total dirs:	1
+ Total files:	18
+ Total blocks (validated):	893 (avg. block size 66486227 B)
+ Minimally replicated blocks:	893 (100.0 %)
+ Over-replicated blocks:	80 (8.958567 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0918252
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:31 PDT 2018 in 9 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt_170to300_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v4_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt_1800to2400_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v5_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:32 PDT 2018
+.....Status: HEALTHY
+ Total size:	29921440373 B
+ Total dirs:	1
+ Total files:	5
+ Total blocks (validated):	400 (avg. block size 74803600 B)
+ Minimally replicated blocks:	400 (100.0 %)
+ Over-replicated blocks:	30 (7.5 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.075
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:32 PDT 2018 in 4 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt_1800to2400_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v5_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt_2400to3200_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v4_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:39 PDT 2018
+.............Status: HEALTHY
+ Total size:	76310745470 B
+ Total dirs:	1
+ Total files:	13
+ Total blocks (validated):	1095 (avg. block size 69690178 B)
+ Minimally replicated blocks:	1095 (100.0 %)
+ Over-replicated blocks:	86 (7.8538814 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.079452
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:39 PDT 2018 in 7 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt_2400to3200_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v4_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt_300to470_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v4_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:40 PDT 2018
+................................Status: HEALTHY
+ Total size:	124042387518 B
+ Total dirs:	1
+ Total files:	32
+ Total blocks (validated):	1833 (avg. block size 67671788 B)
+ Minimally replicated blocks:	1833 (100.0 %)
+ Over-replicated blocks:	116 (6.3284235 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.064921
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:40 PDT 2018 in 11 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt_300to470_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v4_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt_30to50_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v4_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:41 PDT 2018
+..........................Status: HEALTHY
+ Total size:	56198944306 B
+ Total dirs:	1
+ Total files:	26
+ Total blocks (validated):	849 (avg. block size 66194280 B)
+ Minimally replicated blocks:	849 (100.0 %)
+ Over-replicated blocks:	57 (6.713781 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0683157
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:41 PDT 2018 in 7 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt_30to50_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v4_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt_3200toInf_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v5_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:42 PDT 2018
+.............Status: HEALTHY
+ Total size:	85791061685 B
+ Total dirs:	1
+ Total files:	13
+ Total blocks (validated):	1233 (avg. block size 69579125 B)
+ Minimally replicated blocks:	1233 (100.0 %)
+ Over-replicated blocks:	90 (7.29927 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0729928
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:42 PDT 2018 in 9 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt_3200toInf_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v5_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt_470to600_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v4_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:43 PDT 2018
+........................Status: HEALTHY
+ Total size:	104652364454 B
+ Total dirs:	1
+ Total files:	24
+ Total blocks (validated):	1538 (avg. block size 68044450 B)
+ Minimally replicated blocks:	1538 (100.0 %)
+ Over-replicated blocks:	117 (7.607282 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.076073
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:43 PDT 2018 in 10 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt_470to600_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v4_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt_600to800_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v5_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:44 PDT 2018
+.................................Status: HEALTHY
+ Total size:	155279799586 B
+ Total dirs:	1
+ Total files:	33
+ Total blocks (validated):	2332 (avg. block size 66586534 B)
+ Minimally replicated blocks:	2332 (100.0 %)
+ Over-replicated blocks:	167 (7.161235 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0720413
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:44 PDT 2018 in 15 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt_600to800_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v5_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt_800to1000_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v5_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:45 PDT 2018
+.............Status: HEALTHY
+ Total size:	60625875760 B
+ Total dirs:	1
+ Total files:	13
+ Total blocks (validated):	870 (avg. block size 69684914 B)
+ Minimally replicated blocks:	870 (100.0 %)
+ Over-replicated blocks:	71 (8.160919 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0827587
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:45 PDT 2018 in 9 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt_800to1000_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v5_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v3_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:46 PDT 2018
+.................Status: HEALTHY
+ Total size:	44503604567 B
+ Total dirs:	1
+ Total files:	17
+ Total blocks (validated):	673 (avg. block size 66127198 B)
+ Minimally replicated blocks:	673 (100.0 %)
+ Over-replicated blocks:	32 (4.754829 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0475483
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:46 PDT 2018 in 8 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v3_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/ST_tW_antitop_5f_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:47 PDT 2018
+..................Status: HEALTHY
+ Total size:	66014998341 B
+ Total dirs:	1
+ Total files:	18
+ Total blocks (validated):	962 (avg. block size 68622659 B)
+ Minimally replicated blocks:	962 (100.0 %)
+ Over-replicated blocks:	70 (7.2765074 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0748441
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:47 PDT 2018 in 8 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/ST_tW_antitop_5f_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/ST_tW_top_5f_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:20:48 PDT 2018
+.................Status: HEALTHY
+ Total size:	66249157331 B
+ Total dirs:	1
+ Total files:	17
+ Total blocks (validated):	964 (avg. block size 68723192 B)
+ Minimally replicated blocks:	964 (100.0 %)
+ Over-replicated blocks:	76 (7.883817 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0798755
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:48 PDT 2018 in 10 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/ST_tW_top_5f_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SingleElectron_Run2017B-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:20:50 PDT 2018
+....................................................................................................
+............................Status: HEALTHY
+ Total size:	243836393578 B
+ Total dirs:	1
+ Total files:	128
+ Total blocks (validated):	3658 (avg. block size 66658390 B)
+ Minimally replicated blocks:	3658 (100.0 %)
+ Over-replicated blocks:	316 (8.6386 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0869327
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:50 PDT 2018 in 23 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SingleElectron_Run2017B-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SingleElectron_Run2017B-PromptReco-v2_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:20:51 PDT 2018
+.............................Status: HEALTHY
+ Total size:	61699129930 B
+ Total dirs:	1
+ Total files:	29
+ Total blocks (validated):	934 (avg. block size 66059025 B)
+ Minimally replicated blocks:	934 (100.0 %)
+ Over-replicated blocks:	75 (8.029979 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0813704
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:51 PDT 2018 in 7 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SingleElectron_Run2017B-PromptReco-v2_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SingleElectron_Run2017C-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:20:52 PDT 2018
+.................................................Status: HEALTHY
+ Total size:	104212801062 B
+ Total dirs:	1
+ Total files:	49
+ Total blocks (validated):	1581 (avg. block size 65915750 B)
+ Minimally replicated blocks:	1581 (100.0 %)
+ Over-replicated blocks:	133 (8.412397 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.085389
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:52 PDT 2018 in 12 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SingleElectron_Run2017C-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SingleElectron_Run2017C-PromptReco-v2_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:20:53 PDT 2018
+....................................................................................................
+...............................................Status: HEALTHY
+ Total size:	346160980840 B
+ Total dirs:	1
+ Total files:	147
+ Total blocks (validated):	5188 (avg. block size 66723396 B)
+ Minimally replicated blocks:	5188 (100.0 %)
+ Over-replicated blocks:	389 (7.4980726 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0767155
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:53 PDT 2018 in 32 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SingleElectron_Run2017C-PromptReco-v2_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SingleElectron_Run2017C-PromptReco-v3_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:20:54 PDT 2018
+....................................................................................................
+...................................................Status: HEALTHY
+ Total size:	341342203392 B
+ Total dirs:	1
+ Total files:	151
+ Total blocks (validated):	5147 (avg. block size 66318671 B)
+ Minimally replicated blocks:	5147 (100.0 %)
+ Over-replicated blocks:	386 (7.499514 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0765495
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:54 PDT 2018 in 32 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SingleElectron_Run2017C-PromptReco-v3_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SingleElectron_Run2017D-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:20:55 PDT 2018
+....................................................................................................
+.............................Status: HEALTHY
+ Total size:	274735336885 B
+ Total dirs:	1
+ Total files:	129
+ Total blocks (validated):	4128 (avg. block size 66554102 B)
+ Minimally replicated blocks:	4128 (100.0 %)
+ Over-replicated blocks:	313 (7.5823646 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.078004
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:55 PDT 2018 in 27 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SingleElectron_Run2017D-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SingleElectron_Run2017E-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:20:56 PDT 2018
+....................................................................................................
+....................................................................................................
+.....................................................Status: HEALTHY
+ Total size:	615828233238 B
+ Total dirs:	1
+ Total files:	253
+ Total blocks (validated):	9214 (avg. block size 66836144 B)
+ Minimally replicated blocks:	9214 (100.0 %)
+ Over-replicated blocks:	738 (8.009551 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0815065
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:56 PDT 2018 in 57 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SingleElectron_Run2017E-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SingleElectron_Run2017F-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:20:57 PDT 2018
+....................................................................................................
+....................................................................................................
+....................................................................................................
+......................Status: HEALTHY
+ Total size:	857288866079 B
+ Total dirs:	1
+ Total files:	322
+ Total blocks (validated):	12841 (avg. block size 66761846 B)
+ Minimally replicated blocks:	12841 (100.0 %)
+ Over-replicated blocks:	948 (7.3826027 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.07515
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:57 PDT 2018 in 82 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SingleElectron_Run2017F-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SingleMuon_Run2017B-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:20:58 PDT 2018
+....................................................................................................
+....................................................................................................
+....................................................................................................
+............................Status: HEALTHY
+ Total size:	607644008540 B
+ Total dirs:	1
+ Total files:	328
+ Total blocks (validated):	9086 (avg. block size 66876954 B)
+ Minimally replicated blocks:	9086 (100.0 %)
+ Over-replicated blocks:	768 (8.452564 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0866168
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:58 PDT 2018 in 57 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SingleMuon_Run2017B-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SingleMuon_Run2017B-PromptReco-v2_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:20:59 PDT 2018
+......................................Status: HEALTHY
+ Total size:	76262686936 B
+ Total dirs:	1
+ Total files:	38
+ Total blocks (validated):	1140 (avg. block size 66897093 B)
+ Minimally replicated blocks:	1140 (100.0 %)
+ Over-replicated blocks:	88 (7.7192984 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0798244
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:20:59 PDT 2018 in 13 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SingleMuon_Run2017B-PromptReco-v2_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SingleMuon_Run2017C-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:21:00 PDT 2018
+.............................................................Status: HEALTHY
+ Total size:	125445011028 B
+ Total dirs:	1
+ Total files:	61
+ Total blocks (validated):	1900 (avg. block size 66023690 B)
+ Minimally replicated blocks:	1900 (100.0 %)
+ Over-replicated blocks:	151 (7.9473686 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.08
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:00 PDT 2018 in 15 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SingleMuon_Run2017C-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SingleMuon_Run2017C-PromptReco-v2_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:21:01 PDT 2018
+....................................................................................................
+...................................................................................Status: HEALTHY
+ Total size:	381820786915 B
+ Total dirs:	1
+ Total files:	183
+ Total blocks (validated):	5766 (avg. block size 66219352 B)
+ Minimally replicated blocks:	5766 (100.0 %)
+ Over-replicated blocks:	481 (8.342005 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0851543
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:01 PDT 2018 in 36 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SingleMuon_Run2017C-PromptReco-v2_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SingleMuon_Run2017C-PromptReco-v3_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:21:03 PDT 2018
+....................................................................................................
+...............................................................................Status: HEALTHY
+ Total size:	374565710142 B
+ Total dirs:	1
+ Total files:	179
+ Total blocks (validated):	5618 (avg. block size 66672429 B)
+ Minimally replicated blocks:	5618 (100.0 %)
+ Over-replicated blocks:	442 (7.8675685 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0795658
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:03 PDT 2018 in 37 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SingleMuon_Run2017C-PromptReco-v3_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SingleMuon_Run2017D-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:21:04 PDT 2018
+....................................................................................................
+.................................................................................Status: HEALTHY
+ Total size:	370850245165 B
+ Total dirs:	1
+ Total files:	181
+ Total blocks (validated):	5572 (avg. block size 66556038 B)
+ Minimally replicated blocks:	5572 (100.0 %)
+ Over-replicated blocks:	438 (7.860732 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0793252
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:04 PDT 2018 in 41 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SingleMuon_Run2017D-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SingleMuon_Run2017E-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:21:05 PDT 2018
+....................................................................................................
+....................................................................................................
+....................................................................................................
+..........................................................................................Status: HEALTHY
+ Total size:	938603305930 B
+ Total dirs:	1
+ Total files:	390
+ Total blocks (validated):	13917 (avg. block size 67442933 B)
+ Minimally replicated blocks:	13917 (100.0 %)
+ Over-replicated blocks:	1022 (7.343537 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0743694
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:05 PDT 2018 in 82 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SingleMuon_Run2017E-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SingleMuon_Run2017F-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:21:06 PDT 2018
+....................................................................................................
+....................................................................................................
+....................................................................................................
+....................................................................................................
+....................................................................................................
+....................................................................................................
+.............Status: HEALTHY
+ Total size:	1574834202511 B
+ Total dirs:	1
+ Total files:	613
+ Total blocks (validated):	23661 (avg. block size 66558226 B)
+ Minimally replicated blocks:	23661 (100.0 %)
+ Over-replicated blocks:	1783 (7.5356073 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.076328
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:06 PDT 2018 in 137 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SingleMuon_Run2017F-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SingleMuon_Run2017H-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:21:07 PDT 2018
+....................................................................................................
+....................................................................................................
+....................................................................................................
+....................................................................................................
+..................................Status: HEALTHY
+ Total size:	562811618688 B
+ Total dirs:	1
+ Total files:	434
+ Total blocks (validated):	8535 (avg. block size 65941607 B)
+ Minimally replicated blocks:	8535 (100.0 %)
+ Over-replicated blocks:	611 (7.158758 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0722907
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:07 PDT 2018 in 55 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SingleMuon_Run2017H-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SinglePhoton_Run2017B-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:21:08 PDT 2018
+.....................................Status: HEALTHY
+ Total size:	83756434416 B
+ Total dirs:	1
+ Total files:	37
+ Total blocks (validated):	1267 (avg. block size 66106104 B)
+ Minimally replicated blocks:	1267 (100.0 %)
+ Over-replicated blocks:	81 (6.3930545 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.065509
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:08 PDT 2018 in 9 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SinglePhoton_Run2017B-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SinglePhoton_Run2017B-PromptReco-v2_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:21:15 PDT 2018
+......Status: HEALTHY
+ Total size:	12544819128 B
+ Total dirs:	1
+ Total files:	6
+ Total blocks (validated):	190 (avg. block size 66025363 B)
+ Minimally replicated blocks:	190 (100.0 %)
+ Over-replicated blocks:	17 (8.947369 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0894737
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:15 PDT 2018 in 3 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SinglePhoton_Run2017B-PromptReco-v2_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SinglePhoton_Run2017C-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:21:16 PDT 2018
+.....................Status: HEALTHY
+ Total size:	45148276042 B
+ Total dirs:	1
+ Total files:	21
+ Total blocks (validated):	684 (avg. block size 66006251 B)
+ Minimally replicated blocks:	684 (100.0 %)
+ Over-replicated blocks:	56 (8.187135 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0833333
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:16 PDT 2018 in 7 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SinglePhoton_Run2017C-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SinglePhoton_Run2017C-PromptReco-v2_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:21:17 PDT 2018
+...........................................................Status: HEALTHY
+ Total size:	125966331934 B
+ Total dirs:	1
+ Total files:	59
+ Total blocks (validated):	1891 (avg. block size 66613607 B)
+ Minimally replicated blocks:	1891 (100.0 %)
+ Over-replicated blocks:	149 (7.879429 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0803807
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:17 PDT 2018 in 12 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SinglePhoton_Run2017C-PromptReco-v2_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SinglePhoton_Run2017C-PromptReco-v3_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:21:18 PDT 2018
+..............................Status: HEALTHY
+ Total size:	73332995272 B
+ Total dirs:	1
+ Total files:	30
+ Total blocks (validated):	1090 (avg. block size 67277977 B)
+ Minimally replicated blocks:	1090 (100.0 %)
+ Over-replicated blocks:	89 (8.165137 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0834863
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:18 PDT 2018 in 10 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SinglePhoton_Run2017C-PromptReco-v3_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SinglePhoton_Run2017D-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:21:19 PDT 2018
+............................Status: HEALTHY
+ Total size:	63807598561 B
+ Total dirs:	1
+ Total files:	28
+ Total blocks (validated):	966 (avg. block size 66053414 B)
+ Minimally replicated blocks:	966 (100.0 %)
+ Over-replicated blocks:	68 (7.0393376 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0714285
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:19 PDT 2018 in 10 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SinglePhoton_Run2017D-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SinglePhoton_Run2017E-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:21:20 PDT 2018
+.................................................Status: HEALTHY
+ Total size:	143893256614 B
+ Total dirs:	1
+ Total files:	49
+ Total blocks (validated):	2142 (avg. block size 67177057 B)
+ Minimally replicated blocks:	2142 (100.0 %)
+ Over-replicated blocks:	177 (8.263306 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0840337
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:20 PDT 2018 in 15 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SinglePhoton_Run2017E-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/SinglePhoton_Run2017F-PromptReco-v1_MINIAOD_CMS4_V00-00-06/ at Sat Apr 07 11:21:21 PDT 2018
+...............................................................................Status: HEALTHY
+ Total size:	226910274965 B
+ Total dirs:	1
+ Total files:	79
+ Total blocks (validated):	3419 (avg. block size 66367439 B)
+ Minimally replicated blocks:	3419 (100.0 %)
+ Over-replicated blocks:	247 (7.2243347 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0728283
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:21 PDT 2018 in 23 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/SinglePhoton_Run2017F-PromptReco-v1_MINIAOD_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/TTJets_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v3_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:21:22 PDT 2018
+.......................Status: HEALTHY
+ Total size:	102741361124 B
+ Total dirs:	1
+ Total files:	23
+ Total blocks (validated):	1473 (avg. block size 69749735 B)
+ Minimally replicated blocks:	1473 (100.0 %)
+ Over-replicated blocks:	119 (8.078751 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0855398
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:22 PDT 2018 in 13 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/TTJets_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v3_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/TT_TuneCUETP8M2T4_13TeV-powheg-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10_ext1-v1_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:21:23 PDT 2018
+...................................................................................Status: HEALTHY
+ Total size:	391204458977 B
+ Total dirs:	1
+ Total files:	83
+ Total blocks (validated):	5768 (avg. block size 67823241 B)
+ Minimally replicated blocks:	5768 (100.0 %)
+ Over-replicated blocks:	428 (7.4202495 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0759363
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:23 PDT 2018 in 37 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/TT_TuneCUETP8M2T4_13TeV-powheg-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10_ext1-v1_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/TT_TuneCUETP8M2T4_13TeV-powheg-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v7-v1_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:21:24 PDT 2018
+..Status: HEALTHY
+ Total size:	1159029687 B
+ Total dirs:	1
+ Total files:	2
+ Total blocks (validated):	19 (avg. block size 61001562 B)
+ Minimally replicated blocks:	19 (100.0 %)
+ Over-replicated blocks:	3 (15.789474 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.1578948
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:24 PDT 2018 in 1 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/TT_TuneCUETP8M2T4_13TeV-powheg-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v7-v1_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/W1JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:21:25 PDT 2018
+....................................................................................................
+..............Status: HEALTHY
+ Total size:	327099694731 B
+ Total dirs:	1
+ Total files:	114
+ Total blocks (validated):	4890 (avg. block size 66891553 B)
+ Minimally replicated blocks:	4890 (100.0 %)
+ Over-replicated blocks:	371 (7.586912 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.076687
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:25 PDT 2018 in 32 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/W1JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/W1JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v8-v2_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:21:26 PDT 2018
+..Status: HEALTHY
+ Total size:	77410061 B
+ Total dirs:	1
+ Total files:	2
+ Total blocks (validated):	3 (avg. block size 25803353 B)
+ Minimally replicated blocks:	3 (100.0 %)
+ Over-replicated blocks:	0 (0.0 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:26 PDT 2018 in 1 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/W1JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v8-v2_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/W2JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:21:27 PDT 2018
+......................................................................Status: HEALTHY
+ Total size:	220992086761 B
+ Total dirs:	1
+ Total files:	70
+ Total blocks (validated):	3270 (avg. block size 67581677 B)
+ Minimally replicated blocks:	3270 (100.0 %)
+ Over-replicated blocks:	249 (7.614679 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0776758
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:27 PDT 2018 in 22 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/W2JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/W3JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:21:28 PDT 2018
+.....................Status: HEALTHY
+ Total size:	69019440191 B
+ Total dirs:	1
+ Total files:	21
+ Total blocks (validated):	1014 (avg. block size 68066509 B)
+ Minimally replicated blocks:	1014 (100.0 %)
+ Over-replicated blocks:	62 (6.1143985 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0621302
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:28 PDT 2018 in 8 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/W3JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/W4JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:21:29 PDT 2018
+.......................Status: HEALTHY
+ Total size:	88873285320 B
+ Total dirs:	1
+ Total files:	23
+ Total blocks (validated):	1338 (avg. block size 66422485 B)
+ Minimally replicated blocks:	1338 (100.0 %)
+ Over-replicated blocks:	109 (8.146487 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0844543
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:29 PDT 2018 in 8 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/W4JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/WJetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:21:30 PDT 2018
+...................................................................Status: HEALTHY
+ Total size:	179156243101 B
+ Total dirs:	1
+ Total files:	67
+ Total blocks (validated):	2628 (avg. block size 68172086 B)
+ Minimally replicated blocks:	2628 (100.0 %)
+ Over-replicated blocks:	197 (7.496195 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.075723
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:30 PDT 2018 in 19 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/WJetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v1_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/WW_TuneCUETP8M1_13TeV-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:21:31 PDT 2018
+....Status: HEALTHY
+ Total size:	7116679467 B
+ Total dirs:	1
+ Total files:	4
+ Total blocks (validated):	109 (avg. block size 65290637 B)
+ Minimally replicated blocks:	109 (100.0 %)
+ Over-replicated blocks:	13 (11.926605 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.119266
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:31 PDT 2018 in 2 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/WW_TuneCUETP8M1_13TeV-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/WZ_TuneCUETP8M1_13TeV-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:21:32 PDT 2018
+....Status: HEALTHY
+ Total size:	7210320280 B
+ Total dirs:	1
+ Total files:	4
+ Total blocks (validated):	110 (avg. block size 65548366 B)
+ Minimally replicated blocks:	110 (100.0 %)
+ Over-replicated blocks:	10 (9.090909 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.090909
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:32 PDT 2018 in 2 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/WZ_TuneCUETP8M1_13TeV-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
+FSCK started by sjmay (auth:SIMPLE) from /169.228.130.74 for path /cms/store/user/namin/ProjectMetis/ZZ_TuneCUETP8M1_13TeV-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/ at Sat Apr 07 11:21:34 PDT 2018
+....Status: HEALTHY
+ Total size:	7257361349 B
+ Total dirs:	1
+ Total files:	4
+ Total blocks (validated):	111 (avg. block size 65381633 B)
+ Minimally replicated blocks:	111 (100.0 %)
+ Over-replicated blocks:	9 (8.1081085 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	2
+ Average block replication:	2.0810812
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Number of data-nodes:		199
+ Number of racks:		1
+FSCK ended at Sat Apr 07 11:21:34 PDT 2018 in 1 milliseconds
+
+
+The filesystem under path '/cms/store/user/namin/ProjectMetis/ZZ_TuneCUETP8M1_13TeV-pythia8_RunIISummer17MiniAOD-92X_upgrade2017_realistic_v10-v2_MINIAODSIM_CMS4_V00-00-06/' is HEALTHY
