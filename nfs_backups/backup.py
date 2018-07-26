@@ -109,4 +109,4 @@ with open("logs/nfs_backup_v2_%s.txt" % date, "w") as log_file:
       log_file.write("    %s \n" % file)
     log_file.write("\n Run the following commands to back up the corrupted files with the healthy copies on NFS: \n")
     for file in corrupt_files_backed_up:
-      log_file.write("cp %s %s" % (file, file.replace(nfs_dir, hadoop_dir)))
+      log_file.write("cp %s %s \n" % (file, file.replace(nfs_dir, hadoop_dir)))
