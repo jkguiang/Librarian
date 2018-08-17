@@ -4,10 +4,10 @@ import glob
 import datetime
 
 # Changeable parameters
-hadoop_dir = "/hadoop/cms/store/group/snt/"
-magic_string = "/run2_*2017/"
+hadoop_dir = "/hadoop/cms/store/group/snt/run2_data2016_94x/"
+magic_string = "*CMS4_V09-04-17*"
 
-nfs_dir = "/home/users/snt/"
+nfs_dir = "/home/users/snt/run2_data2016_94x/"
 breathing_room = 5 
     
 def find_corrupt_files(paths):
@@ -46,17 +46,6 @@ def make_all_subdirs(base_dir, magic_string, target_dir):
       if not os.path.isdir(dir.replace(base_dir, target_dir)):
 	print("mkdir %s" % dir.replace(base_dir, target_dir))
 	os.system("mkdir %s" % dir.replace(base_dir, target_dir))
-
-def get_free_space(dir):
-  df_output = os.popen("df %s --block-size=1T" % dir).read()
-  df_ouput = df_output.split(" ")
-  sizes = []
-  for item in df_ouput:
-    try:
-      if float(item) > 0:
-        sizes.append(item)
-    except:
-      continue
 
 # Make any needed directories and subdirectories
 make_all_subdirs(hadoop_dir, magic_string, nfs_dir)
@@ -100,14 +89,14 @@ if remaining_space > breathing_room: # backup these files!
   did_backup = True
   for file in files_to_backup:
     print("cp %s %s" % (file, file.replace(hadoop_dir, nfs_dir))) 
-    os.system("cp %s %s" % (file, file.replace(hadoop_dir, nfs_dir)))    
+    #os.system("cp %s %s" % (file, file.replace(hadoop_dir, nfs_dir)))    
 
 else:
   did_backup = False
 
 # Now log the results
 date = datetime.date.today().strftime("%d") + datetime.date.today().strftime("%B") + datetime.date.today().strftime("%Y")
-with open("logs/nfs_backup_v2_%s.txt" % date, "w") as log_file:
+with open("logs/nfs_backup_run2_data_2016_%s.txt" % date, "w") as log_file:
   log_file.write("Summary of hadoop backup on NFS disk\n")
   log_file.write("Attempting to backup all files matching %s in %s\n" % (hadoop_dir + magic_string, nfs_dir)) 
   log_file.write("Date: %s \n" % datetime.datetime.now())
