@@ -12,7 +12,7 @@ if [ ! -d logs/ ]; then
 fi
 
 python /home/users/sjmay/Librarian/nfs_backups/backup_run2_data2017.py
-python /home/users/sjmay/Librarian/nfs_backups/backup_run2_data2016_94x.py
+#python /home/users/sjmay/Librarian/nfs_backups/backup_run2_data2016_94x.py
 
 if [ ! -d ~/public_html/nfs_backup_logs/ ]; then
   mkdir ~/public_html/nfs_backup_logs

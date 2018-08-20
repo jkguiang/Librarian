@@ -89,7 +89,7 @@ if remaining_space > breathing_room: # backup these files!
   did_backup = True
   for file in files_to_backup:
     print("cp %s %s" % (file, file.replace(hadoop_dir, nfs_dir))) 
-    #os.system("cp %s %s" % (file, file.replace(hadoop_dir, nfs_dir)))    
+    os.system("cp %s %s" % (file, file.replace(hadoop_dir, nfs_dir)))    
 
 else:
   did_backup = False
