@@ -5,7 +5,7 @@ import datetime
 
 # Changeable parameters
 hadoop_dir = "/hadoop/cms/store/group/snt/run2_data2017/"
-magic_string = "*CMS4_V09-04-17*"
+magic_string = "*CMS4_V09-04-19*"
 
 nfs_dir = "/home/users/snt/run2_data2017/"
 breathing_room = 5 
@@ -72,7 +72,7 @@ for file in files_to_backup:
 size_of_backup *= 1/(1024.*1024.*1024.*1024.)
 
 #free_space = float(os.popen("df %s --block-size=1T | tail -n +3 |  awk '{ print $3 }'" % nfs_dir).read())
-space = (os.popen("df /home/users/snt/ --block-size=1T").read()).split()
+space = (os.popen("df /home/users/snt/ --block-size=1G").read()).split()
 output = []
 for item in space:
   try:
@@ -80,14 +80,21 @@ for item in space:
       output.append(item)
   except:
     continue
-free_space = float(output[-1])
+free_space = float(output[-1]) / 1024.
 
 # Can we backup?
 remaining_space = free_space - size_of_backup
+
+print "Free space ", free_space
+print "Size of backup ", size_of_backup
+print "Remaining space ", remaining_space
+
 if remaining_space > breathing_room: # backup these files!
   did_backup = True
   for file in files_to_backup:
-    print("cp %s %s" % (file, file.replace(hadoop_dir, nfs_dir))) 
+    print("hadoop fs -get %s %s" % (file.replace("/hadoop",""), file.replace(hadoop_dir, nfs_dir)))
+    os.system("hadoop fs -get %s %s" % (file.replace("/hadoop",""), file.replace(hadoop_dir, nfs_dir)))
+    #print("cp %s %s" % (file, file.replace(hadoop_dir, nfs_dir))) 
     #os.system("cp %s %s" % (file, file.replace(hadoop_dir, nfs_dir)))    
 
 else:

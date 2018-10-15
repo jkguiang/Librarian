@@ -72,7 +72,7 @@ for file in files_to_backup:
 size_of_backup *= 1/(1024.*1024.*1024.*1024.)
 
 #free_space = float(os.popen("df %s --block-size=1T | tail -n +3 |  awk '{ print $3 }'" % nfs_dir).read())
-space = (os.popen("df /home/users/snt/ --block-size=1T").read()).split()
+space = (os.popen("df /home/users/snt/ --block-size=1G").read()).split()
 output = []
 for item in space:
   try:
@@ -80,7 +80,7 @@ for item in space:
       output.append(item)
   except:
     continue
-free_space = float(output[-1])
+free_space = float(output[-1]) / 1024.
 
 
 # Can we backup?
