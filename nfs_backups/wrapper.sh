@@ -19,6 +19,6 @@ if [ ! -d ~/public_html/nfs_backup_logs/ ]; then
   mkdir ~/public_html/nfs_backup_logs
 fi
 
-cp logs/nfs_backup*.txt ~/public_html/nfs_backup_logs/
+cp logs/*.txt ~/public_html/nfs_backup_logs/
 chmod 755 ~/public_html/nfs_backup_logs
 chmod 755 ~/public_html/nfs_backup_logs/*.txt

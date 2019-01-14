@@ -3,7 +3,6 @@ import os
 import glob
 import datetime
 
-
 import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument("--location", help = "path to directory(s) to check for corruptions. Can include wildcards", type=str)
@@ -25,26 +24,6 @@ def find_corrupt_files(paths):
           fname = line.split()[0].replace(":","")
           fnames.append("/hadoop"+fname)
   return fnames  
-
-def find_files_in_subdirs(base_dir, magic_string):
-  files = []
-  dirs = glob.glob(base_dir + magic_string)
-  for dir in dirs:
-    for root, directory, filenames in os.walk(dir):
-      for file in filenames:
-	files.append(os.path.join(root, file))
-  return files
-
-def make_all_subdirs(base_dir, magic_string, target_dir):
-  l1_dirs = glob.glob(base_dir + magic_string)
-  for l1_dir in l1_dirs:
-    print l1_dir
-    subdirs = [x[0] for x in os.walk(l1_dir)]
-    for dir in subdirs:
-      print dir
-      if not os.path.isdir(dir.replace(base_dir, target_dir)):
-	print("mkdir %s" % dir.replace(base_dir, target_dir))
-	os.system("mkdir %s" % dir.replace(base_dir, target_dir))
 
 # Check if any files are corrupt
 corrupt_files = find_corrupt_files(glob.glob(args.location))
