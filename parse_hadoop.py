@@ -40,21 +40,24 @@ def get_size(line, thresh_year):
     else:
         return 0, None
 
-
 def old_files(dir, thresh_year):
     total_size = 0
     files = []
     
-    ls = os.popen("ls -alR %s --time=atime | grep .*\.root" % dir).read()
+    ls = os.popen("ls -alR %s --time=atime" % dir).read()
     lines = ls.split("\n")
     for line in lines:
+        if ":" in line:
+            subdir = line[1:-1]
+            print subdir
+        if ".root" not in line:
+            continue
         size, name = get_size(line, thresh_year)
         if size > 0:
             total_size += size
-            files.append(dir + "/" + name)
+            files.append(subdir + "/" + name)
 
     return total_size, files
-
 
 
 if args.users == "all":
@@ -65,11 +68,10 @@ else:
     for user in users:
         user_dirs.append("/hadoop/cms/store/user/" + user)
 
-
 results = {}
 results_short = {}
 
-thresh_year = 2016 # find all .root files last accessed 201X or earlier
+thresh_year = 2018 # find all .root files last accessed 201X or earlier
 
 os.system("mkdir -p hadoop_summaries")
 
