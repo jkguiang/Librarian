@@ -47,8 +47,8 @@ def old_files(dir, thresh_year):
     ls = os.popen("ls -alR %s --time=atime" % dir).read()
     lines = ls.split("\n")
     for line in lines:
-        if ":" in line:
-            subdir = line[1:-1]
+        if ":" in line and "hadoop" in line:
+            subdir = line[0:-1]
             print subdir
         if ".root" not in line:
             continue
