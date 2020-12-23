@@ -63,13 +63,13 @@ else:
     users = args.users.split(",")
     user_dirs = []
     for user in users:
-        user_dirs.append("/hadoop/cms/store/user/" + user + "/")
+        user_dirs.append("/hadoop/cms/store/user/" + user)
 
 
 results = {}
 results_short = {}
 
-thresh_year = 2015 # find all .root files last accessed 201X or earlier
+thresh_year = 2016 # find all .root files last accessed 201X or earlier
 
 os.system("mkdir -p hadoop_summaries")
 
