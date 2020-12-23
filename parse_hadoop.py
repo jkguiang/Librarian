@@ -4,6 +4,11 @@ import glob
 import numpy
 import json
 
+import argparse
+parser = argparse.ArgumentParser()
+parser.add_argument("--users", help = "which hadoop users to check", type=str, default="all")
+args = parser.parse_args()
+
 def last_access(dir, user):
     ls = os.popen("ls -altrh %s --time=atime" % dir).read()
     lines = ls.split("\n")
@@ -52,11 +57,21 @@ def old_files(dir, thresh_year):
 
 
 
-user_dirs = glob.glob("/hadoop/cms/store/user/*")
+if args.users == "all":
+    user_dirs = glob.glob("/hadoop/cms/store/user/*")
+else:
+    users = args.users.split(",")
+    user_dirs = []
+    for user in users:
+        user_dirs.append("/hadoop/cms/store/user/" + user + "/")
+
+
 results = {}
 results_short = {}
 
 thresh_year = 2015 # find all .root files last accessed 201X or earlier
+
+os.system("mkdir -p hadoop_summaries")
 
 for dir in user_dirs:
     user = dir.split("/")[-1]
