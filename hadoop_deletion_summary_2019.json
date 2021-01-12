@@ -1,102 +1,102 @@
 {
+    "adorsett": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_adorsett.sh", 
+        "size": "2.522177 TB"
+    }, 
+    "ald77": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_ald77.sh", 
+        "size": "1.895774 TB"
+    }, 
     "all": {
         "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_*.sh", 
         "size": "82.491494 TB"
     }, 
-    "hadoop_summaries/adorsett": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/adorsett.sh", 
-        "size": "2.522177 TB"
-    }, 
-    "hadoop_summaries/ald77": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/ald77.sh", 
-        "size": "1.895774 TB"
-    }, 
-    "hadoop_summaries/branson": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/branson.sh", 
+    "branson": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_branson.sh", 
         "size": "6.694237 TB"
     }, 
-    "hadoop_summaries/dspitzba": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/dspitzba.sh", 
+    "dspitzba": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_dspitzba.sh", 
         "size": "2.292164 TB"
     }, 
-    "hadoop_summaries/esmaeel": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/esmaeel.sh", 
+    "esmaeel": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_esmaeel.sh", 
         "size": "2.537655 TB"
     }, 
-    "hadoop_summaries/gkole": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/gkole.sh", 
+    "gkole": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_gkole.sh", 
         "size": "1.086359 TB"
     }, 
-    "hadoop_summaries/gpetrucc": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/gpetrucc.sh", 
+    "gpetrucc": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_gpetrucc.sh", 
         "size": "1.121332 TB"
     }, 
-    "hadoop_summaries/isuarez": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/isuarez.sh", 
+    "isuarez": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_isuarez.sh", 
         "size": "3.790017 TB"
     }, 
-    "hadoop_summaries/jaehyeok": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/jaehyeok.sh", 
+    "jaehyeok": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_jaehyeok.sh", 
         "size": "4.508847 TB"
     }, 
-    "hadoop_summaries/manuelf": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/manuelf.sh", 
+    "manuelf": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_manuelf.sh", 
         "size": "2.408204 TB"
     }, 
-    "hadoop_summaries/mcitron": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/mcitron.sh", 
+    "mcitron": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_mcitron.sh", 
         "size": "7.590311 TB"
     }, 
-    "hadoop_summaries/mcollura": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/mcollura.sh", 
+    "mcollura": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_mcollura.sh", 
         "size": "2.708956 TB"
     }, 
-    "hadoop_summaries/mliu": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/mliu.sh", 
+    "mliu": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_mliu.sh", 
         "size": "1.386449 TB"
     }, 
-    "hadoop_summaries/mmasciov": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/mmasciov.sh", 
+    "mmasciov": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_mmasciov.sh", 
         "size": "1.464903 TB"
     }, 
-    "hadoop_summaries/namin": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/namin.sh", 
+    "namin": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_namin.sh", 
         "size": "1.20806 TB"
     }, 
-    "hadoop_summaries/phchang": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/phchang.sh", 
+    "phchang": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_phchang.sh", 
         "size": "9.319 TB"
     }, 
-    "hadoop_summaries/rbhandar": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/rbhandar.sh", 
+    "rbhandar": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_rbhandar.sh", 
         "size": "2.855992 TB"
     }, 
-    "hadoop_summaries/ryan": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/ryan.sh", 
+    "ryan": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_ryan.sh", 
         "size": "2.315502 TB"
     }, 
-    "hadoop_summaries/sapta": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/sapta.sh", 
+    "sapta": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_sapta.sh", 
         "size": "2.587916 TB"
     }, 
-    "hadoop_summaries/sicheng": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/sicheng.sh", 
+    "sicheng": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_sicheng.sh", 
         "size": "1.961146 TB"
     }, 
-    "hadoop_summaries/slava77": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/slava77.sh", 
+    "slava77": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_slava77.sh", 
         "size": "1.015182 TB"
     }, 
-    "hadoop_summaries/smay": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/smay.sh", 
+    "smay": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_smay.sh", 
         "size": "1.286295 TB"
     }, 
-    "hadoop_summaries/usarica": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/usarica.sh", 
+    "usarica": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_usarica.sh", 
         "size": "1.048074 TB"
     }, 
-    "hadoop_summaries/wverbeke": {
-        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_hadoop_summaries/wverbeke.sh", 
+    "wverbeke": {
+        "script": "/home/users/smay/Librarian/hadoop_summaries/delete_files_wverbeke.sh", 
         "size": "1.10858 TB"
     }
 }

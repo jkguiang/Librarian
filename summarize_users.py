@@ -7,7 +7,7 @@ total_size = 0.0
 summary = {}
 
 for user_file in users:
-    user = user_file.replace("summary_","").replace(".txt", "")
+    user = user_file.replace("summary_","").replace(".txt", "").replace("hadoop_summaries/", "")
     with open(user_file, "r") as f_in:
         lines = f_in.readlines()
         info = lines[0].split()
